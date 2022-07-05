@@ -1,0 +1,159 @@
+body
+{
+    background-color: rgb(254, 254, 0);
+}
+.Ram
+{
+  height:10ch;
+  width: 10ch;
+}
+.ids
+{
+    font-family: "Lucida Calligraphy";
+}
+.lal
+{
+    height: 10ch;
+    width: 10ch;
+}
+.pead
+{
+    color: rgb(0, 255, 251);
+    background-color:rgb(24, 9, 93) ;
+    font-size:xx-large ;
+    font-weight: bolder;
+}
+.pers
+{
+    background-color: rgb(9, 255, 0) ;
+}
+.jagganth
+{
+    background-color: rgb(0, 0, 0);
+    height: 50ch;
+    width: 150ch;
+    border-radius: 100px;
+    margin-top: 30px;
+}
+.amba
+{
+    height: 30ch;
+    width: 30ch;
+    padding-top: 10px;
+}
+.ree
+{
+    background-color: rgb(255, 0, 200);
+    font-family: "comic sans ms";
+    font-weight: bold;
+    border-radius: 10px;  
+}
+.sha
+{
+    background-color: rgb(255, 0, 162);
+    font-family: "comic sans ms";
+    font-weight: bold;
+    border-radius: 10px;
+}
+.chan
+{
+    background-color: rgb(255, 115, 0);
+    font-family: "comic sans ms";
+    font-weight: bold;
+    border-radius: 10px;
+}
+.dra
+{
+    background-color: rgb(255, 115, 0);
+    font-family: "comic sans ms";
+    font-weight: bold;
+    border-radius: 10px;
+}
+.sub
+{
+    height: 30ch;
+    width: 30ch;
+    padding-top: 10px;;
+}
+.shiva
+{
+    background-color: rgb(0, 0, 0);
+    height: 50ch;
+    width: 150ch;
+    border-radius: 100px;
+    margin-top: 30px;
+}
+.ruru
+{
+    background-color: rgb(0, 255, 72);
+    font-family: "comic sans ms";
+    font-weight: bold;
+    border-radius: 10px;
+}
+.roll
+{
+    background-color: rgb(0, 255, 72);
+    font-family: "comic sans ms";
+    font-weight: bold;
+    border-radius: 10px;
+}
+.ganesha
+{
+    background-color: rgb(0, 0, 0);
+    height: 50ch;
+    width: 150ch;
+    border-radius: 100px;
+    margin-top: 30px;
+}
+.jaya
+{
+    height: 30ch;
+    width: 30ch;
+    padding-top: 10px;
+}
+.anti
+{
+    background-color: rgb(0, 237, 254);
+    font-family: "comic sans ms";
+    font-weight: bold;
+    border-radius: 10px;
+}
+.jenamani
+{
+    background-color: rgb(0, 237, 254);
+    font-family: "comic sans ms";
+    font-weight: bold;
+    border-radius: 10px;
+}
+.saraswati
+{
+    background-color: rgb(0, 0, 0);
+    height: 50ch;
+    width: 150ch;
+    border-radius: 100px;
+    margin-top: 30px;
+}
+.pur
+{
+    height: 30ch;
+    width: 30ch;
+    padding-top: 10px;
+}
+.chan
+{
+    background-color: rgb(255, 115, 0);
+    font-family: "comic sans ms";
+    font-weight: bold;
+    border-radius: 10px;
+}
+.dra
+{
+    background-color: rgb(255, 115, 0);
+    font-family: "comic sans ms";
+    font-weight: bold;
+    border-radius: 10px;
+}
+label
+{
+    color: rgb(255, 255, 255);
+}
